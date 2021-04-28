@@ -3,7 +3,7 @@ In mathematics, the term chaos game originally referred to a method of creating 
 
 
 ## Sierpinsky Triangle
-![sierpinsky-triangle](triangle.gif)
+<img src="triangle.gif" width=300 align=right>
 
 ## Sierpinsky Square
 ![sierpinsky-square](square.gif)
