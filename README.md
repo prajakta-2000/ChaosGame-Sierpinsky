@@ -3,7 +3,10 @@ In mathematics, the term chaos game originally referred to a method of creating 
 
 
 ## Sierpinsky Triangle
-<img src="triangle.gif" width=300 align=right>
+![sierpinsky-triangle](triangle.gif)
+
+
 
 ## Sierpinsky Square
+The factor for Sierpinsky square is 1/3.If we plot random points using this factor we get a Sierpinsky sqaure/carpet
 ![sierpinsky-square](square.gif)
